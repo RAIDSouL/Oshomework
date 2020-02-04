@@ -23,7 +23,7 @@ for i in range(processThreeCount):
 
 #shuffle values in process
 random.shuffle(process)
-print(*process, sep = ", ")
+print("DataSet :" , *process, sep = " ")
 
 #First Come First Serve
 ############################################################################################
